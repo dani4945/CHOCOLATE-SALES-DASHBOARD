@@ -48,4 +48,4 @@ Ponnan leads the salesperson leaderboard with $11.7M in sales and 724.9K boxes a
 CY vs PY trend lines reveal a visible dip in early 2025, signaling a need for strategic intervention in Q1 performance
 
 6.Snapshot Of My Dashboard
-[Dashboard Preview (Chocolate Sales Report)](https://github.com/dani4945/CAR-SALES-DASHBOARD/blob/main/Snapshot%20of%20Car%20Sales%20Dashboard%20Details%20Report.png)
+[Dashboard Preview (Chocolate Sales Report)](https://github.com/dani4945/CHOCOLATE-SALES-DASHBOARD/blob/main/Snapshot%20of%20Chocolate%20Sales%20Dashboard.png)
